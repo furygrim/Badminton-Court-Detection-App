@@ -1,5 +1,4 @@
 # Badminton-Court-Detection-App
-# Badminton Court Detection App
 
 An interactive application for detecting badminton courts in images and videos, hosted on Streamlit. This project implements two distinct approaches for court detection: a traditional computer vision technique using color segmentation and a deep learning approach using the YOLOv8 model.
 
